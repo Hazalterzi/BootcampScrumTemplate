@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+Takım Flutter
 
 # Ürün İle İlgili Bilgiler
 
